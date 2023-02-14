@@ -1,0 +1,23 @@
+.card {
+    border-radius: 20px;
+    padding: 5px 15px 5px 15px;
+    color: black;
+    margin-bottom: 2rem;
+    line-height: 150%;
+}
+
+.card-bg1 {
+    background: url(../../Resources/images/card.png);
+}
+
+.card-bg2 {
+    background: url(../../Resources/images/cardbord.png);
+}
+
+.learn-more-button {
+    border-radius: 6px;
+    border: none;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 8px 10px 8px;
+}

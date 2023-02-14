@@ -1,0 +1,72 @@
+.sidebar {
+    background: #24273a;
+    color: #a7b1bc;
+    padding: 12px 20px;
+    /* height: 100vh; */
+    width: 270px;
+}
+
+.hero {
+    /* background: #24273A; */
+    width: 40%;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.dashboard {
+    background-color: red;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 20px;
+}
+
+.transaction {
+    padding: 12px 17px;
+}
+
+.wallet {
+    padding: 12px 17px;
+}
+
+.roqqu-hub {
+    padding: 12px 17px;
+}
+
+.nft {
+    padding: 12px 17px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.support {
+    /* padding: 12px 17px; */
+    font-size: 12px;
+    margin: 0 30px 10px 0;
+    /* background-color: red; */
+}
+
+.overview {
+    padding: 12px 17px;
+    font-size: 12px;
+    margin: 0 30px 10px 0;
+}
+
+.sidebar-dashboard {
+    padding: 12px 20px;
+    border-radius: 10px;
+    background-color: #4143e7;
+    background-image: linear-gradient(98.7deg, #5240f9 19.95%, #f3526d 89.51%);
+    color: var(--white-color);
+    font-weight: 700;
+}
+
+.sidebar-icon {
+    margin-right: 1rem;
+}
+
+.OVERVIEW {
+    font-size: 12px;
+    margin: 0 30px 10px 0;
+}
